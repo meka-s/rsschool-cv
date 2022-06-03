@@ -5,7 +5,7 @@
 1. **Phone number:** +37064025254
 2. **E-mail:** ddmenderes@gmail.com
 3. **GitHub:** meka-s
-4. **LinkedIn:** 
+4. **LinkedIn:** https://www.linkedin.com/in/meerim-saparalieva-b952a623b/
 
 ## **About Myself**:
 *********************
