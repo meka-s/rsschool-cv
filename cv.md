@@ -30,7 +30,7 @@ function sum(a, b) {
 ****************
 * English-Russian-Turkish translator
 * Sales representative in bank
-* [First project](https://github.com/meka-s/rsschool-cv/)
+* My First project -> [Markdown and CV](https://github.com/meka-s/rsschool-cv/)
     
 ## **Education**:
 *****************
