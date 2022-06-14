@@ -1,9 +1,87 @@
-.header-block {
-    color: rgb(130, 12, 12);
-    text-align: center;
-    font-size: 32px;
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;   
+    box-sizing: border-box;
+    background-color: rgba(230, 226, 226, 0.981);
+    line-height: 2rem;
 }
 
-.header-block p {
-    font-weight: bold;
+.name_block {
+    background-color: white;
+    max-width: 1200px;
+    margin: 10px auto 0px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.avatar{
+    border-radius: 50%;
+    display: block;
+    width: 80%;
+}
+
+.avatar_block {
+    width: 30%;
+}
+
+.block_name {
+    width: 70%;
+    font-size: 1.2em;
+    margin: auto;
+}
+
+.name {
+    margin: auto;
+}
+
+main {
+    background-color: white;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.main_block {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.contact-info_block {
+    width: 40%;
+}
+
+.skills_block {
+    width: 60%;
+    margin: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer ul {
+    list-style: none;
+    margin: auto;
+}
+
+footer ul li {
+    display: inline;
+}
+
+.icons {
+    width: 5%;
+}
+
+.rsschool-icon {
+    width: 10%;
+    
 }
